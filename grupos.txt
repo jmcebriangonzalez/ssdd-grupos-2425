@@ -1,0 +1,5 @@
+cat << EOF | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+https://github.com/usuario/repo
+Nombre Integrante , @usuario_github
+Nombre Integrante , @usuario_github
+EOF
