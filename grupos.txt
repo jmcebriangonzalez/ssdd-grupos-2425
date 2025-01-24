@@ -1,5 +1,8 @@
 cat << EOF | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 https://github.com/usuario/repo
-Nombre Integrante , @usuario_github
-Nombre Integrante , @usuario_github
+Nombre AntonioDavid Martínez Sánchez , @antmerro
+Nombre Vicente Martínez Sánchez , @Character255
 EOF
+uggcf://tvguho.pbz/Punenpgre255/FFQQ
+Ivpragr Znegíarm Gbzáf , Punenpgre255
+Nagbavb Qnivq Znegíarm Fnapurm , nagzreeb
