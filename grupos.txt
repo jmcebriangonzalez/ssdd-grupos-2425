@@ -1,5 +1,3 @@
-cat << EOF | tr 'A-Za-z' 'N-ZA-Mn-za-m'
-https://github.com/usuario/repo
-Nombre Integrante , @usuario_github
-Nombre Integrante , @usuario_github
-EOF
+uggcf://tvguho.pbz/Punenpgre255/cenpgvpn1-ffqq.tvg
+Ivpragr Znegíarm Gbzáf , Punenpgre255
+Nagbavb Qnivq Znegíarm Fnapurm , nagzreeb
