@@ -1,5 +1,7 @@
-cat << EOF | tr 'A-Za-z' 'N-ZA-Mn-za-m'
-https://github.com/usuario/repo
-Nombre Integrante , @usuario_github
-Nombre Integrante , @usuario_github
-EOF
+https://github.com/PedroLuiiis/ssdd
+Jorge Garrido, @JorgeGarrido12
+Pedro Luis Fuentes, @PedroLuiiis
+
+uggcf://tvguho.pbz/CrqebYhvvvf/FFQQ-2425
+Wbetr Tneevqb, @WbetrTneevqb12
+Crqeb Yhvf Shragrf, @CrqebYhvvvf
