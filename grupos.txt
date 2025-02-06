@@ -1,5 +1,3 @@
-cat << EOF | tr 'A-Za-z' 'N-ZA-Mn-za-m'
-https://github.com/usuario/repo
-Nombre Integrante , @usuario_github
-Nombre Integrante , @usuario_github
-EOF
+uggcf://tvguho.pbz/ZnepbfSnhen/Enhy_Znepbf_FFQQ.tvg
+Znepbf Snhen Nfrafvb, @ZnepbfSnhen
+Enúy Mncngn Thvy, @EnhyMCT
